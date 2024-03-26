@@ -7,8 +7,7 @@
 <h1 align="center">Hi 👋, I'm Yuqi Tang</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 📫 How to reach me **yuqitangcoriander@gmail.com**
-
+📫 How to reach me **yuqitangcoriander@gmail.com**
 
 
 
@@ -29,6 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yuqitangcoriander@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yuqitangcoriander) 
 
   
