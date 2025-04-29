@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Yuqi Tang</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 📫 How to reach me **yuqitangcoriander@gmail.com**
 
